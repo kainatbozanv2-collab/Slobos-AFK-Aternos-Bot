@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "opkainshsmp.aternos.me",
-    "port": 54918,
+    "ip": "kainatbozanssss.aternos.me",
+    "port": 58427,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
